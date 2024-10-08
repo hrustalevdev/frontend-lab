@@ -4,7 +4,7 @@
     "module": "ESNext",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "jsx": "react",
+    "jsx": "react-jsx",
     "allowJs": true,
     "moduleResolution": "node",
     "strict": true,
